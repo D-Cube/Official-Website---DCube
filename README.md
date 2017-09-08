@@ -1,0 +1,2 @@
+#[Clarity](https://ifvictr.github.io/clarity/)
+Some template I made in a few days (learning experiment). Super basic and simple. Free to use under the **MIT License**. **NOTE: This template will no longer be updated.**
